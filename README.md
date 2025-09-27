@@ -1,0 +1,24 @@
+# My Web Scraping Project
+
+This project uses **Python** for web scraping and data handling.
+
+## Features
+- Scrape websites with **BeautifulSoup** and **lxml**
+- Automate browsers with **Selenium**
+- Manage drivers easily with **webdriver-manager**
+- Handle data with **Pandas** and **NumPy**
+- Work with images using **Pillow**
+- Load environment variables securely with **python-dotenv**
+
+## Requirements
+Install everything with:
+
+beautifulsoup4==4.13.4
+lxml==6.0.2
+requests==2.32.4
+selenium==4.34.2
+webdriver-manager==4.0.2
+pandas==2.3.0
+numpy==2.3.0
+pillow==11.2.1
+python-dotenv==1.1.1
